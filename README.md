@@ -22,4 +22,4 @@ O **HaxBall Desktop Client** é a versão definitiva e otimizada para jogadores 
 
 ---
 
-#### Mantido com ❤️ por [kauanmity](https://github.com/vagner-mity) ⚽💎
+#### Mantido com ❤️ por [kauanmity](https://github.com/kauanmity) ⚽💎
