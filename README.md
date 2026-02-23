@@ -4,7 +4,7 @@ O **HaxBall Desktop Client** é a versão definitiva e otimizada para jogadores 
 
 ## 💾 Download & Instalação
 
-*   **Download Direto**: [Baixar HaxBall Client (.exe)](https://vagner.pro/vagnerball)
+*   **Download Direto**: [Baixar HaxBall Client (.exe)](https://github.com/kauanmity/haxid-client/releases/download/Setup-Client/HaxID.Setup.1.0.0.exe)
 *   **Instalação**: Basta baixar o executável e rodar. O client se encarrega de configurar tudo para você.
 *   **Updates Automáticos**: Você não precisa baixar o client novamente para ter novas versões. Sempre que uma atualização for lançada, o próprio client irá te avisar e baixar as melhorias automaticamente! 🔄🛡️
 
